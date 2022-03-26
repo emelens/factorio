@@ -59,3 +59,33 @@
 
 ![image](https://user-images.githubusercontent.com/18240627/160251093-dcd5ac06-8555-4dcd-8ca5-9557eafabb90.png)
 
+## 09:50:00 Places a furnace blue print on the mine
+
+![image](https://user-images.githubusercontent.com/18240627/160251453-b2ee22f7-4dd7-4abe-860a-7ee84123a6f5.png)
+
+## 00:09:55 Adds three more iron miners and stone furnaces
+
+![image](https://user-images.githubusercontent.com/18240627/160251499-35539cdb-8e63-496c-b647-db0abb7470fa.png)
+
+
+## 00:10:00 Crafts 10 stone furnaces in the factory, then a few gears, and miners
+
+![image](https://user-images.githubusercontent.com/18240627/160251543-a3b9cf85-ee16-4226-8653-0030ea998423.png)
+
+![image](https://user-images.githubusercontent.com/18240627/160251622-28099799-f837-4125-9311-626a6d5bd473.png)
+
+## 00:11:19 Places 4 miners in coal mine
+
+![image](https://user-images.githubusercontent.com/18240627/160251684-37521274-821f-431e-bfc1-8b30436c9b88.png)
+
+## 00:11:41 Crafts a few copper cables
+![image](https://user-images.githubusercontent.com/18240627/160251729-742e9b9f-744f-4b61-9123-372cf4da4e54.png)
+
+## 00:11:47 Crafts a few green science in the factory
+
+![image](https://user-images.githubusercontent.com/18240627/160251763-6dcbf32f-fb06-46b0-a0d5-1a5445fcfe76.png)
+
+
+
+
+
