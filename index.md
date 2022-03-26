@@ -36,3 +36,26 @@
 
 ## 00:05:43 Sets up a lab and starts research
 ![image](https://user-images.githubusercontent.com/18240627/160250694-217bb90d-ad80-4861-a53f-1d9f237344a4.png)
+
+## 00:07:42 Runs around felling lots of trees. 
+
+![image](https://user-images.githubusercontent.com/18240627/160250808-dc83cac6-57af-4bf3-9e12-badc6d07003b.png)
+
+## 00:08:10 On the way back sets up the dashboard, refills furnaces, and handcrafts 2 factories
+
+![image](https://user-images.githubusercontent.com/18240627/160250837-ef1b33fa-ad7f-43b0-b3c0-d4b3c3cbe02c.png)
+
+![image](https://user-images.githubusercontent.com/18240627/160250902-a7d70005-823a-4bbc-98b0-f1c9e88e1c6d.png)
+
+## 00:08:20 Replaces lab, with factory and crafts copper cables
+
+![image](https://user-images.githubusercontent.com/18240627/160250981-f449f4ed-5815-4f57-9602-9a7696067748.png)
+
+## 00:08:37 Crafts a few electric poles
+
+![image](https://user-images.githubusercontent.com/18240627/160251033-2d9a1bf6-6c91-4de6-8527-6793fcc166f6.png)
+
+## 00:09:05 Lays electric poles to the mines. Sets up the second factory to create stone furnaces
+
+![image](https://user-images.githubusercontent.com/18240627/160251093-dcd5ac06-8555-4dcd-8ca5-9557eafabb90.png)
+
