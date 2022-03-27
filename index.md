@@ -189,6 +189,9 @@
 ![image](https://user-images.githubusercontent.com/18240627/160275002-dda0ba51-8b7d-4cc1-9032-d34a07e0f8ac.png)
 
 
+## 00:24:50 Makes a lot of green circuts and the moves the factories to the blue print locations
+
+![image](https://user-images.githubusercontent.com/18240627/160276026-114e6aa2-d476-445f-8cb9-26bae1ed0de2.png)
 
 
 
