@@ -193,5 +193,13 @@
 
 ![image](https://user-images.githubusercontent.com/18240627/160276026-114e6aa2-d476-445f-8cb9-26bae1ed0de2.png)
 
+## 00:28:00 The entire blue print is built. Starts laying electric miners in the coal mine. And also adds the below factories
+
+![image](https://user-images.githubusercontent.com/18240627/160292028-4ce9fa32-77b9-428d-9365-1b3136f9d659.png)
+
+# 00:29:00 Anti says "This takes longer than it should be!!!" 
+### Me: dead 
+
+
 
 
