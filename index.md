@@ -120,6 +120,43 @@
 
 
 
+## 00:16:13 Crafts a few factories and starts crafting electric miner in a new factory
+
+![image](https://user-images.githubusercontent.com/18240627/160273993-04ca286e-eb4a-4ec5-95a4-5c5880965b9e.png)
+
+![image](https://user-images.githubusercontent.com/18240627/160274007-6b857880-bad3-4330-906b-33820933accf.png)
+
+
+## 00:16:20 Picks up 2 electric miners and starts crafting pipes
+
+![image](https://user-images.githubusercontent.com/18240627/160274048-55931d0f-41a6-4fda-87a1-a743150298eb.png)
+
+
+## 00:16:43 Sets up 3 electric miners and a factory to craft stone smelters
+
+![image](https://user-images.githubusercontent.com/18240627/160274109-85fe52f6-4723-45c0-b07e-5dd3bc3e3970.png)
+
+
+## 00:17:20 Uses the pipes to produce steam engines
+
+![image](https://user-images.githubusercontent.com/18240627/160274161-56638a38-cb60-4a16-8523-c18763f75d69.png)
+
+
+## 00:17:25 Switches the factory to produce coal based inserters
+
+![image](https://user-images.githubusercontent.com/18240627/160274209-3bae81b7-7f2f-4a06-9054-f381b8c1393b.png)
+
+
+## 00:17:40 Produces iron chest and then moves to produce green circuits
+
+![image](https://user-images.githubusercontent.com/18240627/160274285-f221d0df-7fe0-4503-b929-f19dd8b1d732.png)
+
+
+# 00:18:09 Adds 2 more generators
+
+![image](https://user-images.githubusercontent.com/18240627/160274336-8abf0a6f-9e5e-45f6-ae09-661656de3780.png)
+
+
 
 
 
