@@ -81,10 +81,19 @@
 ## 00:11:41 Crafts a few copper cables
 ![image](https://user-images.githubusercontent.com/18240627/160251729-742e9b9f-744f-4b61-9123-372cf4da4e54.png)
 
-## 00:11:47 Crafts a few green science in the factory
+## 00:11:47 Crafts a few green science in the factory, and few gears
 
 ![image](https://user-images.githubusercontent.com/18240627/160251763-6dcbf32f-fb06-46b0-a0d5-1a5445fcfe76.png)
 
+
+
+## 00:12:00 Crafts 2 more factories
+
+![image](https://user-images.githubusercontent.com/18240627/160272919-a1eb0ddf-816e-444b-b7a6-acd9c3ac8920.png)
+
+## 00:12:08 Crafts gears, uses them to craft miners
+
+![image](https://user-images.githubusercontent.com/18240627/160272950-7a498d43-dfef-4bd1-ae62-2b899fd56afb.png)
 
 
 
