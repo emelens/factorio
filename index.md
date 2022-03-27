@@ -200,6 +200,32 @@
 # 00:29:00 Anti says "This takes longer than it should be!!!" 
 ### Me: dead 
 
+## 00:30:37 Starts more research
+
+![image](https://user-images.githubusercontent.com/18240627/160292123-598c96c8-bf0b-4e68-889f-c5a1fb3183f1.png)
+
+
+## 00:31:23 Crafts boilers and 5 coal inserts
+
+![image](https://user-images.githubusercontent.com/18240627/160292169-446c1bcf-d589-4392-a34a-acef1a3d552b.png)
+
+## 00:31:41 Connects the coal mine to iron smelters
+![image](https://user-images.githubusercontent.com/18240627/160292312-2a730ed1-e0b8-4406-8fff-78e8a0850259.png)
+
+## 00:32:31 Places a few coal miners up the map
+
+![image](https://user-images.githubusercontent.com/18240627/160292371-98376947-afc8-45b5-8167-c1abd94081da.png)
+
+
+## 00:33:29 Brings coal belts to power plants. Adds a bunch of power plants
+
+![image](https://user-images.githubusercontent.com/18240627/160292487-b13b27df-c8dc-458f-b78c-6447fc26a1a5.png)
+
+## 00:34:01 Produces 5 splitters, a few boxes.
+
+![image](https://user-images.githubusercontent.com/18240627/160292562-31858119-b840-4335-8111-34dadbfb480e.png)
+
+
 
 
 
