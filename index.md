@@ -175,9 +175,19 @@
 ![image](https://user-images.githubusercontent.com/18240627/160274661-2fb41071-9600-4acf-aec6-d097974ffb32.png)
 
 
-## 00:19:06 Starts producing electric inserters
+## 00:19:06 Starts producing electric inserters, poles, and belts. Runs to coal mines and picks coal.
 
 ![image](https://user-images.githubusercontent.com/18240627/160274697-c5841bdc-9671-428d-8bff-690eed40cca2.png)
+
+
+## 00:20:30 Produces more inserts, iron chests, green circuits
+
+![image](https://user-images.githubusercontent.com/18240627/160274927-7dd37a5a-8d3a-4ab7-9d67-8b0a40d9fd28.png)
+
+## 00:20:47 Starts placing miners, belts, and smelters
+
+![image](https://user-images.githubusercontent.com/18240627/160275002-dda0ba51-8b7d-4cc1-9032-d34a07e0f8ac.png)
+
 
 
 
