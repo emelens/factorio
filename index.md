@@ -152,12 +152,17 @@
 ![image](https://user-images.githubusercontent.com/18240627/160274285-f221d0df-7fe0-4503-b929-f19dd8b1d732.png)
 
 
-# 00:18:09 Adds 2 more generators
+## 00:18:09 Adds 2 more generators
 
 ![image](https://user-images.githubusercontent.com/18240627/160274336-8abf0a6f-9e5e-45f6-ae09-661656de3780.png)
 
 
 
+## 00:18:22 Adds coal inserts to the power system
+
+![image](https://user-images.githubusercontent.com/18240627/160274456-6a7994a3-e483-4637-97ec-19d7e821aaf5.png)
+
+![image](https://user-images.githubusercontent.com/18240627/160274424-eec24bfc-af2a-43d6-a9a4-93a12869a0cd.png)
 
 
 
