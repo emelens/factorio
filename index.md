@@ -102,9 +102,24 @@
 ## 00:13:23 Adds 4 copper miners and smelters
 ![image](https://user-images.githubusercontent.com/18240627/160273618-199298d4-6051-422f-8e85-3b9a0e266c6f.png)
 
-## 00:13:35 Adds four more coal miners
+## 00:13:35 Adds four more coal miners. Goes back to craft miners. On the way, refills copper smeleters
 
 ![image](https://user-images.githubusercontent.com/18240627/160273656-1f9ffba0-2315-44d7-ad36-01c4e4067e12.png)
+
+
+## 00:14:27 Adds 4 more iron miners and smelters
+
+![image](https://user-images.githubusercontent.com/18240627/160273748-3ebf1201-f973-4405-abde-87b725cd5855.png)
+
+
+## 00:15:33 Smelter factory is changed to produce copper cables. Accumulates a bunch of them and crafts electricity poles. Moves to coal area and adds more coal miners. Crafts more elctric poles, green circuits 
+
+![image](https://user-images.githubusercontent.com/18240627/160273827-1cba85a4-8fdf-4f1d-83d9-00cd8586f8cf.png)
+
+![image](https://user-images.githubusercontent.com/18240627/160273863-aae9d1b7-742a-4fea-b572-45fb1b74c4e2.png)
+
+
+
 
 
 
