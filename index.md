@@ -96,5 +96,17 @@
 ![image](https://user-images.githubusercontent.com/18240627/160272950-7a498d43-dfef-4bd1-ae62-2b899fd56afb.png)
 
 
+## 00:13:00 Moves a few miners to a different place
+![image](https://user-images.githubusercontent.com/18240627/160273553-0cf5b0b3-9c3b-411b-89b0-f0d5864ab94b.png)
+
+## 00:13:23 Adds 4 copper miners and smelters
+![image](https://user-images.githubusercontent.com/18240627/160273618-199298d4-6051-422f-8e85-3b9a0e266c6f.png)
+
+## 00:13:35 Adds four more coal miners
+
+![image](https://user-images.githubusercontent.com/18240627/160273656-1f9ffba0-2315-44d7-ad36-01c4e4067e12.png)
+
+
+
 
 
