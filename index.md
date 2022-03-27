@@ -165,5 +165,20 @@
 ![image](https://user-images.githubusercontent.com/18240627/160274424-eec24bfc-af2a-43d6-a9a4-93a12869a0cd.png)
 
 
+## 00:18:57 Produces 5 more factories
+
+![image](https://user-images.githubusercontent.com/18240627/160274578-771c2791-21fb-4d89-b038-1ff89388843f.png)
+
+
+## 00:19:00 Adds more factories. Starts producing belts
+
+![image](https://user-images.githubusercontent.com/18240627/160274661-2fb41071-9600-4acf-aec6-d097974ffb32.png)
+
+
+## 00:19:06 Starts producing electric inserters
+
+![image](https://user-images.githubusercontent.com/18240627/160274697-c5841bdc-9671-428d-8bff-690eed40cca2.png)
+
+
 
 
